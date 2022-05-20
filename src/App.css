@@ -9,3 +9,9 @@
   display: inline-block;
   margin: 150px;
 }
+.loading{
+text-align: center;
+text-size-adjust: 30px;
+animation-delay: 5s;
+
+}
